@@ -1,0 +1,18 @@
+Volebný prieskum - prezidentské voľby
+
+1.
+
+číselné atribúty - vek respondenta
+ordinálne atribúty - príjem respondenta nad/pod tisíc eur btto za mesiac; vzdelanie respondenta; 
+nominálne atribúty - pohlavie respondenta, kandidát na prezidenta (1-10), národnosť respondenta
+binárne atribúty: volil/nevolil respondent v minulých voľbách?
+
+2.
+sieťové dáta: obchodný register, biz biz
+
+
+3.
+klasifikácia (ak je cieľový atribút binárny, nominálny, ordinálny) - Ženy s akým vzdelaním budú voliť kandidata č. 1
+regresia (ak je cieľový atribút číselný) - koľko voličov maďarskej národnosti bude voliť kandidáta č. 1 na základe prieskumu?
+
+
